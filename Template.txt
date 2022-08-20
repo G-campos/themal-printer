@@ -1,0 +1,9 @@
+Pagamento confirmado via Cartao de Credito
+Cod pedido Lojas Tal A1B2C3D4E5F   
+20/08/22 | 08:01
+--------------------------------
+PIN                  12345678998
+Cartao de credito final	1234
+Valor original em BRL	R$ 20,00
+IOF (0,38%)             R$  0,00
+Valor final             R$ 20,00

@@ -1,0 +1,4 @@
+github.com/augustopimenta/escpos v0.0.0-20181114032407-a408f5620eac h1:qoCDuCXFseHSTGBOp4o8nbhfIzulxNtcgM2D1JTU/5Q=
+github.com/augustopimenta/escpos v0.0.0-20181114032407-a408f5620eac/go.mod h1:24W7h2yu3hH12zgXScDqGQ68aPzWEb5YxFTfDlQ+LAo=
+golang.org/x/text v0.3.7 h1:olpwvP2KacW1ZWvsR7uQhoyTYvKAupfQrRGBFM352Gk=
+golang.org/x/text v0.3.7/go.mod h1:u+2+/6zg+i71rQMx5EYifcz6MCKuco9NR6JIITiCfzQ=
